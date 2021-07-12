@@ -3,9 +3,10 @@
  * @Author: charles
  * @Date: 2021-07-12 10:56:47
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2021-07-12 16:32:27
+ * @LastEditTime: 2021-07-12 17:17:03
 -->
 <template>
+  <!-- 容器 -->
   <div class="home">
     <!-- 头部 -->
     <div class="header">
