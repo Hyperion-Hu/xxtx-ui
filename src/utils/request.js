@@ -3,7 +3,7 @@
  * @Author: charles
  * @Date: 2020-10-26 17:04:14
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2021-07-12 15:40:02
+ * @LastEditTime: 2021-07-13 09:15:28
  */
 import axios from 'axios'
 import { Message } from 'element-ui'
@@ -11,7 +11,7 @@ import router from '@/router'
 import qs from 'querystring'
 // create an axios instance
 const service = axios.create({
-  baseURL:'http://hyp.world:8888',   // 更换成每组的接口
+  baseURL:'http://121.40.56.126:8888',   // 更换成每组的接口
   timeout: 5000 // request timeout
 })
 
